@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "short.messages",
+      "type": "com.ccctop.crowd.config.ShortMessageProperties",
+      "sourceType": "com.ccctop.crowd.config.ShortMessageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "short.messages.appcode",
+      "type": "java.lang.String",
+      "sourceType": "com.ccctop.crowd.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.messages.host",
+      "type": "java.lang.String",
+      "sourceType": "com.ccctop.crowd.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.messages.method",
+      "type": "java.lang.String",
+      "sourceType": "com.ccctop.crowd.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.messages.path",
+      "type": "java.lang.String",
+      "sourceType": "com.ccctop.crowd.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.messages.sign",
+      "type": "java.lang.String",
+      "sourceType": "com.ccctop.crowd.config.ShortMessageProperties"
+    },
+    {
+      "name": "short.messages.skin",
+      "type": "java.lang.String",
+      "sourceType": "com.ccctop.crowd.config.ShortMessageProperties"
+    }
+  ],
+  "hints": []
+}
